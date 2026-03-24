@@ -1,0 +1,6 @@
+Strategy,Avg_Return(%),Portfolio_Volatility(%),SingleAsset_Volatility(%),Sharpe_Ratio,Max_Drawdown(%),Calmar_Ratio
+Aggressive,6.46,7.11,9.63,0.79,0.0,0.0
+Balanced,5.8,6.96,9.4,0.75,0.0,0.0
+Conservative,4.51,7.05,9.53,0.55,0.0,0.0
+Growth,5.96,7.4,9.91,0.8,0.0,0.0
+Income,4.82,6.8,9.05,0.63,0.0,0.0

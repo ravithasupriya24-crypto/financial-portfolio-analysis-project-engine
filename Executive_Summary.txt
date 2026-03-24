@@ -1,0 +1,29 @@
+
+=========================================
+FINANCIAL PORTFOLIO ANALYSIS REPORT
+=========================================
+Project Author: Supriya Busa
+Analysis Period: 2022-2023
+
+KEY PERFORMANCE INSIGHTS:
+-------------------------
+* Best Risk-Adjusted Strategy: Growth 
+  (Sharpe Ratio: 0.8)
+
+* Safest Investment Path: Income 
+  (Volatility: 6.8%)
+
+* Diversification Benefit: Your portfolio reduced 
+  single-asset risk by an average of 25.67%.
+
+FUTURE PROJECTION (5-Year Forecast):
+------------------------------------
+Based on a $10,000 starting investment in the Balanced Strategy:
+* Probability of Profit: 95.89999999999999%
+* Expected Median Outcome: $13,146.39
+
+CONCLUSION:
+The Growth strategy provides the most efficient 
+returns relative to risk. However, the Income 
+approach is recommended for risk-averse investors.
+=========================================
